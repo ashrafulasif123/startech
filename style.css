@@ -89,7 +89,8 @@ nav {
 }
 
 .nav_option_item_pc_pc button {
-  background-color: #2e60c4;
+  /* background-color: #2e60c4; */
+  background-color: #f2724a;
   border: none;
   color: #ffff;
   padding: 15px 20px;
