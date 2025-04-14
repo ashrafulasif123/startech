@@ -132,7 +132,7 @@ nav {
   font-size: 14px;
 }
 
-.product-item ul{
+.product-item > ul{
   display: flex;  
 }
 
@@ -172,7 +172,6 @@ nav {
 .product-item ul li .dropdown_second_other{
   left: auto;
   right: 100%;
-  
 }
 
 
@@ -193,9 +192,6 @@ nav {
 .product-item > ul > li > .dropdown_border{
   box-shadow: 0 -3px 0 0 #ef4a23;
 }
-
-
-
 
 .product-item ul li a{
   display: block;
